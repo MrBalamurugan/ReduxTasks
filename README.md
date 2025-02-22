@@ -1,3 +1,8 @@
+// Install dependencies by running:
+// npm create vite@latest my-counter-app --template react-ts
+// cd my-counter-app
+// npm install @reduxjs/toolkit react-redux
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
